@@ -1,6 +1,6 @@
 # Lucas Jang
 
-I'm finishing a Management Science degree at NYU (December 2026), and I spend most of my spare time building small tools that do work for me. Most of them run on a schedule, often while I'm asleep. I write a lot of this alongside Claude Code, which is why so many of my repos have a `CLAUDE.md` in them.
+I spend most of my spare time building small tools that do work for me. Most of them run on a schedule, often while I'm asleep. I write a lot of this alongside Claude Code, which is why so many of my repos have a `CLAUDE.md` in them.
 
 ## Live
 
